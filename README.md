@@ -2,3 +2,4 @@
 
 Whitebox methods for extracting amphibian habitats near vernal pools. Most of the analysis was completed in Earth Engine. Here are links to those three scripts.
 
+![habitat connectivity model](images/RecommendationsA-01.png)  
